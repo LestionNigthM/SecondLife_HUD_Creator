@@ -39,3 +39,32 @@ SecondLife_HUD_Creator/
 ├── control_button.lsl
 ├── mesh_texture_receiver.lsl
 └── ropa_receiver.lsl
+
+## 🚀 Características
+
+- Gestión de texturas para prims y mesh
+- Materiales PBR completos
+- Sistema de sonidos 3D
+- Control de animaciones
+- Color y transparencia
+- E-commerce: cupones, pagos, inventario
+- Integración con base de datos
+- Sincronización web
+- Sistema de reseñas
+- Especialización para ropa
+
+## 📋 Requisitos
+
+- Second Life Viewer
+- Conocimientos básicos de SL
+
+## 🛠️ Instalación
+
+1. Crea un prim en SL
+2. Copia todos los scripts `.lsl` al prim
+3. Configura según necesidad
+4. Adjunta como HUD
+
+## 📜 Licencia
+
+MIT License
